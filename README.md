@@ -1,1 +1,1 @@
-<img style="height: 300px" alt="Cute Kitten" src="kitten.gif">
+![Kitten](kitten.gif)
